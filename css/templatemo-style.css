@@ -43,9 +43,9 @@ a:hover {
 .tm-site-logo {
     width: 0px;
     height: 00px;
-    border-top: 45px solid transparent;
-    border-left: 40px solid white;
-    border-right: 40px solid white;
+    border-top: 40px solid transparent;
+    border-left: 35px solid white;
+    border-right: 35px solid white;
 
     /* border-radius: 50%;
     transform: rotate(0deg); */
@@ -61,7 +61,7 @@ a:hover {
     font-family: 'Sacramento', cursive;
     font-size: 39px;
     position: relative;
-    top:4px;
+    top:5px;
 }
 
 /* .tm-site-header {
